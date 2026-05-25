@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Logs and temp
+*.log
+*.tmp
+resultsrun_eval.log
+
+# Claude Code
+.claude/
+
+# Large intermediate files
+rag_index.json
+batch_progress.json
