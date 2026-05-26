@@ -12,11 +12,11 @@ Cross-border food trade requires navigating heterogeneous regulatory frameworks 
 
 ## Task Types
 
-| Task | Description | Metric |
-|------|-------------|--------|
-| Standard Alignment | Align product ingredient/limit values across regulatory frameworks | Accuracy |
-| Compliance Review | Determine whether a product violates target-market regulations | F1 |
-| Temporal Reasoning | Identify regulation effective dates and draft/active status | F1/F2 |
+| Task | Description |
+|------|-------------|
+| Standard Alignment | Align product ingredient/limit values across regulatory frameworks |
+| Compliance Review | Determine whether a product violates target-market regulations |
+| Temporal Reasoning | Identify regulation effective dates and draft/active status |
 
 ## Quick Start
 
